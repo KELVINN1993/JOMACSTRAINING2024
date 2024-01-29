@@ -1,1 +1,2 @@
 # JOMACSTRAINING2024
+cohort(2024)
